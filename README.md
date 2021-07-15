@@ -79,7 +79,7 @@ Check out the open-source demo version for a taste of what Volt Dashboard PRO La
 
 | Dashboard | Transactions | Profile | Forms |
 | --- | --- | --- | --- |
-| [![Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/dashboard.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/dashboard) | [![Transactions](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/transactions.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/transactions) | [![Profile](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/profile.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/profile) | [![Forms](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/forms.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forms)
+| [![Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/dashboard-pro.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/dashboard) | [![Transactions](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/transactions.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/transactions) | [![Profile](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/profile.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/profile) | [![Forms](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/forms.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forms)
 
 | Sign in | Sign up | Forgot password | Reset password |
 | --- | --- | --- | --- |
