@@ -54,7 +54,40 @@ Check out the open-source demo version for a taste of what Volt Dashboard PRO La
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/laravel/volt-admin-dashboard-template)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/dashboard/volt-react)[<img src="https://themesberg.s3.us-east-2.amazonaws.com/public/github/technology/laravel-logo.jpeg" width="60" height="60" />](https://themesberg.com/product/laravel/volt-admin-dashboard-template).
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://themesberg.com/product/dashboard/volt-react)[<img src="https://themesberg.s3.us-east-2.amazonaws.com/public/github/technology/laravel-logo.jpeg" width="60" height="60" />](https://themesberg.com/product/laravel/volt-pro-admin-dashboard-template).
+
+| HTML | React  | Laravel  |
+| --- | ---  | --- |
+| [![Volt Bootstrap 5 Dashboard HTML](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-bootstrap-5-dashboard/volt-bootstrap-5-dashboard-preview.jpg)](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) | [![Volt React Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-react-dashboard/thumbnail.png)](https://themesberg.com/product/dashboard/volt-react) | [![Volt Laravel Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/volt-pro-laravel-dashboard.jpg)](https://themesberg.com/product/laravel/volt-pro-admin-dashboard-template)
+
+## Laravel
+
+| Sign in | Sign up | Profile | Reset password |
+| --- | --- | --- | --- |
+| [![Sign in](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/sign-in.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/sign-in) | [![Sign up](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/sign-up.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/sign-up) | [<img src = "https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/profile-pro.png" width="87% height = 100%"> ](https://volt-pro-laravel-admin-dashboard.updivision.com/profile) | [![Reset password](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/reset-password.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forgot-password)
+
+| User Management | Role Management | Category Management |
+| --- | --- | --- |
+| [![User Management](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/user-management.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/user-management) | [![Role Management](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/role-management.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/role-management) | [<img src = "https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/category-management.png"> ](https://volt-pro-laravel-admin-dashboard.updivision.com/category-management)
+
+| Tag Management | Item Management |
+| --- | --- |
+| [<img src = "https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/tag-management.png" width = "90%">](https://volt-pro-laravel-admin-dashboard.updivision.com/tag-management) | [![Item Management](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/github/item-management.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/item-management)
+
+
+## Demo
+
+| Dashboard | Transactions | Profile | Forms |
+| --- | --- | --- | --- |
+| [![Dashboard](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/dashboard.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/dashboard) | [![Transactions](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/transactions.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/transactions) | [![Profile](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/profile.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/profile) | [![Forms](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/forms.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forms)
+
+| Sign in | Sign up | Forgot password | Reset password |
+| --- | --- | --- | --- |
+| [![Sign in](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/sign-in.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/login) | [![Sign up](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/sign-up.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/register) | [![Forgot Password](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/forgot-password.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forgot-password) | [![Reset password](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/reset-password.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/forgot-password)
+
+| Lock Profile | 404 Not Found | 500 Server Error | Documentation |
+| --- | --- | --- | --- |
+| [![Lock Profile](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/lock.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/lock) | [![404 Not Found](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/400.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/404) | [![500 Server Error](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/500.png)](https://volt-pro-laravel-admin-dashboard.updivision.com/500) | [<img src = "https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-laravel-dashboard/github/documentation.png" width = "85%">](https://volt-pro-laravel-admin-dashboard.updivision.com/documentation/getting-started/overview/index.html)
 
 ## Demo
 
@@ -148,9 +181,9 @@ If you input the wrong data when editing the profile, don't worry. Validation ru
 
 ### Sign in
 
-You have the option to log in using the email and password. To access this page, just click the "**Laravel examples / Sign in**" link in the left sidebar or add **/login** in the URL.
+You have the option to log in using the email and password. To access this page, just click the "**Laravel examples / Sign in**" link in the left sidebar or add **/sign-in** in the URL.
 
-The `app/Http/Livewire/Auth/Login.php` handles the log in process and validation.
+The `app/Http/Livewire/Auth/SignIn.php` handles the log in process and validation.
 
 ```
    protected $rules = [
@@ -169,9 +202,9 @@ The `app/Http/Livewire/Auth/Login.php` handles the log in process and validation
 
 ### Sign up
 
-You have the option to register an user using the email and password. To access this page, just click the "**Laravel examples / Sign up**" link in the left sidebar or add **/register** in the URL.
+You have the option to register an user using the email and password. To access this page, just click the "**Laravel examples / Sign up**" link in the left sidebar or add **/sign-up** in the URL.
 
-The `app/Http/Livewire/Auth/Register.php` handles the register process and validation.
+The `app/Http/Livewire/Auth/SignUp.php` handles the register process and validation.
 
 ```
     public function register()
