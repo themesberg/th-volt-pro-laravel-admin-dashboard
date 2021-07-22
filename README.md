@@ -1,6 +1,9 @@
 # [Volt Pro Dashboard Laravel](https://volt-pro-laravel-admin-dashboard.updivision.com/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Volt%20Dashboard%20made%20by%20%40Themesberg%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23laravel%20%23livewire%20%23bootstrap5&amp;url=https%3A%2F%2Fwww.themesberg.com%2Fproduct%2Flaravel%2Fvolt-pro-admin-dashboard-template)
 ## Full Stack Laravel App with Livewire & Alpine.js
 
+[![version](https://img.shields.io/npm/v/@themesberg/volt-bootstrap-5-dashboard)](https://www.npmjs.com/package/@themesberg/volt-laravel-admin-dashboard)
+[![GitHub issues open](https://img.shields.io/github/issues/themesberg/th-volt-pro-laravel-admin-dashboard.svg)](https://github.com/themesberg/th-volt-pro-laravel-admin-dashboard/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/th-volt-pro-laravel-admin-dashboard.svg)](https://github.com/themesberg/th-volt-pro-laravel-admin-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Volt Pro - Premium Laravel Dashboard](https://i.imgur.com/qQjTEEQ.gif "Volt Pro - Premium Laravel Dashboard")
 
