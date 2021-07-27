@@ -417,55 +417,55 @@ Within the download you'll find the following directories and files:
 
 ```
 .
-├── bootstrap-tables.blade.php
-├── calendar.blade.php
+├── bootstrap-tables.blade.php                  # Bootstrap tables page
+├── calendar.blade.php                          # Calendar page
 ├── components
-│   ├── button
+│   ├── button                                  # Dropdown button component
 │   │   └── link.blade.php
-│   ├── date-picker.blade.php
-│   ├── input
+│   ├── date-picker.blade.php                   # Datepicker component
+│   ├── input                                   # Select input component
 │   │   └── select.blade.php
-│   ├── table
+│   ├── table                                   # Table template
 │   │   ├── cell.blade.php
 │   │   ├── heading.blade.php
 │   │   └── row.blade.php
 │   └── table.blade.php
-├── dashboard
+├── dashboard                                   # All the dashboard pages
 │   ├── app-analysis.blade.php
 │   ├── dashboard.blade.php
 │   └── traffic-sources.blade.php
 ├── datatables.blade.php
 ├── errors
-│   ├── 404.blade.php
-│   └── 500.blade.php
+│   ├── 404.blade.php                           # Error 404 page
+│   └── 500.blade.php                           # Error 500 page
 ├── layouts
-│   ├── app.blade.php
-│   ├── base.blade.php
-│   ├── footer2.blade.php
-│   ├── footer.blade.php
-│   ├── nav.blade.php
-│   ├── sidenav.blade.php
-│   └── topbar.blade.php
+│   ├── app.blade.php                           # Including layouts based on routes
+│   ├── base.blade.php                          # All the styles and scripts included
+│   ├── footer2.blade.php                       # Footer for pages without sidenav
+│   ├── footer.blade.php                        # Footer for pages with sidenav
+│   ├── nav.blade.php                           # Nav for mobile view 
+│   ├── sidenav.blade.php                       # The sidebar menu
+│   └── topbar.blade.php                        # Search bar, notifications and user area
 ├── livewire
-│   ├── auth
+│   ├── auth                                    # Handles auth routes (login, register, logout, reset password)
 │   │   ├── forgot-password.blade.php
 │   │   ├── logout.blade.php
 │   │   ├── reset-password.blade.php
 │   │   ├── sign-in.blade.php
 │   │   └── sign-up.blade.php
-│   ├── categories.blade.php
+│   ├── categories.blade.php                    # Categories table
 │   ├── components
-│   │   ├── buttons.blade.php
-│   │   ├── forms.blade.php
-│   │   ├── modals.blade.php
-│   │   ├── notifications.blade.php
-│   │   └── typography.blade.php
+│   │   ├── buttons.blade.php                   # Buttons page
+│   │   ├── forms.blade.php                     # Forms page
+│   │   ├── modals.blade.php                    # Modals page
+│   │   ├── notifications.blade.php             # Notifications page
+│   │   └── typography.blade.php                # Typography page
 │   ├── edit-category.blade.php
 │   ├── edit-item.blade.php
 │   ├── edit-role.blade.php
 │   ├── edit-tag.blade.php
 │   ├── edit-user.blade.php
-│   ├── examples
+│   ├── examples                                # Examples pages
 │   │   ├── billing.blade.php
 │   │   ├── err404.blade.php
 │   │   ├── err500.blade.php
@@ -477,26 +477,24 @@ Within the download you'll find the following directories and files:
 │   │   ├── reset-password-example.blade.php
 │   │   ├── sign-in-example.blade.php
 │   │   └── sign-up-example.blade.php
-│   ├── items.blade.php
-│   ├── kanban.blade.php
-│   ├── messages.blade.php
+│   ├── items.blade.php                         # Items table
+│   ├── kanban.blade.php                        # Kanban page
+│   ├── messages.blade.php                      # Messages page
 │   ├── new-category.blade.php
 │   ├── new-item.blade.php
 │   ├── new-role.blade.php
 │   ├── new-tag.blade.php
 │   ├── new-user.blade.php
-│   ├── profile.blade.php
-│   ├── roles.blade.php
-│   ├── single-message.blade.php
-│   ├── tags.blade.php
-│   ├── users.blade.php
-│   └── widgets.blade.php
-├── map.blade.php
-├── tasks.blade.php
-├── transactions.blade.php
-└── welcome.blade.php
+│   ├── profile.blade.php                       # Profile page
+│   ├── roles.blade.php                         # Roles table
+│   ├── single-message.blade.php                # Single message page
+│   ├── tags.blade.php                          # Tags table
+│   ├── users.blade.php                         # Users table
+│   └── widgets.blade.php                       # Widgets page  
+├── map.blade.php                               # Map page
+├── tasks.blade.php                             # Tasks page
+├── transactions.blade.php                      # Transactions page
 ```
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
