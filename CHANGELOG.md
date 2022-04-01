@@ -12,3 +12,7 @@
 - Category Management
 - Tag Management
 - Item Management
+
+## Version 1.0.1
+- Upgrade to Laravel 9.x
+
