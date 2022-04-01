@@ -5,7 +5,7 @@
 [![GitHub issues open](https://img.shields.io/github/issues/themesberg/th-volt-pro-laravel-admin-dashboard.svg)](https://github.com/themesberg/th-volt-pro-laravel-admin-dashboard/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/th-volt-pro-laravel-admin-dashboard.svg)](https://github.com/themesberg/th-volt-pro-laravel-admin-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Volt Pro - Premium Laravel Dashboard](https://i.imgur.com/qQjTEEQ.gif "Volt Pro - Premium Laravel Dashboard")
+[<img src="https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-pro-laravel/volt-pro-laravel-dashboard.jpg" width="100%" />](https://volt-pro-laravel-admin-dashboard.updivision.com/)
 
 Build complex admin panels faster with a premium fullstack tool featuring ready to use Laravel CRUDs and Livewire & Alpine.js integrations. We partnered with <a href="https://updivision.com/">UPDIVISION</a> to help you cut up to 90 hours of development time for a wide range of admin panels: blogs, lightweight e-commerce platforms, SaaS apps. 
 
